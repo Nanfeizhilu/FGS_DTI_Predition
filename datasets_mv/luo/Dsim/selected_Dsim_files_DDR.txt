@@ -1,0 +1,2 @@
+luo_simmat_drugs_ddi.txt
+luo_simmat_drugs_disease.txt

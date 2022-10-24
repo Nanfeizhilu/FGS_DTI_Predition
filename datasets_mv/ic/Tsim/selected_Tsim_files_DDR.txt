@@ -1,0 +1,3 @@
+ic_simmat_proteins_sw-n.txt
+ic_simmat_proteins_ppi.txt
+ic_simmat_proteins_spectrum-n-k4.txt
