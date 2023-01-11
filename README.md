@@ -30,3 +30,6 @@ If set `parameter_setting = 1`, the program excutes FGS with five base models (W
 If set `parameter_setting = 2`, the program excutes AVE, KA, HSIC, and LIC similarity intergation methods with the five base models.
 
 If set `parameter_setting = 3`, the program excutes two nonlinear methods (SNF-H, SNF-F) with the five base models.
+
+## Contact ##
+Bin Liu: [liubin@cqupt.edu.cn](liubin@cqupt.edu.cn)
