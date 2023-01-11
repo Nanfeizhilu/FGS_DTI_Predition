@@ -1,5 +1,5 @@
 # FGS_DTI_Predition
-The implemetaion of the Fine-Grained Selective similairty integartion method for DTI prediction, see https://arxiv.org/abs/2212.00543 for more details
+The implemetaion of the paper "Fine-Grained Selective similairty integartion method for DTI prediction", see https://arxiv.org/abs/2212.00543 for more details
 
 The codes were tested on Python 3.7
 
