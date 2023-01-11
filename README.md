@@ -13,12 +13,6 @@ scikit-learn==1.0.1
 
 scipy==1.6.1
 
->**Requirement**:
-joblib==0.14.1
-numpy==1.17.4
-scikit-learn==1.0.1
-scipy==1.6.1
-
 ## Running Codes ##
 
 Excute the file [Codes/main_fgs.py](https://github.com/Nanfeizhilu/FGS_DTI_Predition/blob/main/Codes_FGS/main_FGS.py), with assigning your local directory to the `my_path` variable. The results are written in the `output` folder.
