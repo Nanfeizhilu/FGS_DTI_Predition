@@ -1,6 +1,8 @@
 # FGS_DTI_Predition
 The implemetaion of the Fine-Grained Selective similairty integartion method for DTI prediction, see https://arxiv.org/abs/2212.00543 for more details
 
+The codes were tested on Python 3.7
+
 ## Requirement ##
 
 joblib==0.14.1
@@ -17,7 +19,7 @@ numpy==1.17.4
 scikit-learn==1.0.1
 scipy==1.6.1
 
-The codes were tested on Python 3.7
+## Running Codes ##
 
 Excute the file [Codes/main_fgs.py](https://github.com/Nanfeizhilu/FGS_DTI_Predition/blob/main/Codes_FGS/main_FGS.py), with assigning your local directory to the `my_path` variable. The results are written in the `output` folder.
 
